@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.automation.testcases.LoginTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.45 s <<< FAILURE! - in com.automation.testcases.LoginTests
+com.automation.testcases.LoginTests.loginTest  Time elapsed: 0.086 s  <<< FAILURE!
+java.lang.NoSuchMethodError: 'void com.google.common.base.Preconditions.checkState(boolean, java.lang.String, java.lang.Object, java.lang.Object, java.lang.Object)'
+	at com.automation.testcases.LoginTests.loginTest(LoginTests.java:12)
+
