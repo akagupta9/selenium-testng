@@ -1,0 +1,21 @@
+Java - https://www.oracle.com/java/technologies/javase-downloads.html
+MAven - https://maven.apache.org/download.cgi
+            Path setup - JAVA-HOME (Apache path and JDK path) and /bin in path variable
+
+Browser driver downloas - https://www.selenium.dev/downloads/
+Apache Maven Plugin - https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html
+Surefire plugin - http://maven.apache.org/surefire/maven-surefire-plugin/
+TestNg dependency - https://mvnrepository.com/artifact/org.testng/testng
+Selenium Dependency - https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+TestNG Documents - https://testng.org/doc/documentation-main.html
+TestNG Plugin - https://dl.bintray.com/testng-team/testng-eclipse-release/
+
+How to run - 
+1. Command Line
+mvn clean test
+mvn -Dtest=<className> clean test
+
+2. From eclipse
+
+
+
